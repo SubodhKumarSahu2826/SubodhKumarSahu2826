@@ -16,6 +16,6 @@ I'm Subodh Kumar Sahu, a passionate web developer skilled in the MERN Stack with
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubodhKumarSahu2826&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SubodhKumarSahu2826&icon=10&color=3)](https://visitcount.itsvg.in)
+[![Profile Visit Count](https://visitcount.itsvg.in/api?id=SubodhKumarSahu2826&icon=0&color=3)](https://github.com/SubodhKumarSahu2826)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
